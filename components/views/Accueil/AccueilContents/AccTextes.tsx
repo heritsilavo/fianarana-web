@@ -125,15 +125,17 @@ export default function HeroSection() {
       </h2>
 
       <p className="hero-slogan hero-animated opacity-0 text-lg md:text-xl lg:text-xl 2xl:text-3xl mt-6 md:mt-8 lg:mt-7 xl:mt-8 2xl:mt-9 text-center lg:text-left">
-        
+        La bonne ressource, au bon moment, pour chaque examen
       </p>
 
       <p className="hero-description hero-animated opacity-0 text-sm md:text-lg lg:text-sm 2xl:text-xl mt-6 md:mt-8 lg:mt-6 xl:mt-8 2xl:mt-9 max-w-[100%] sm:max-w-[80%] lg:max-w-[90%] xl:max-w-[80%] 2xl:max-w-[70%] text-center lg:text-left mx-auto lg:mx-0">
-        Passionné par le développement frontend, je transforme des concepts
-        créatifs en expériences web fluides et intuitives. Spécialisé en
-        React(Next.js), TypeScript et animations, je m'engage à créer des
-        interfaces modernes pour donner vie à vos projets web les plus
-        ambitieux.
+        Accédez à une bibliothèque exhaustive de livres, <span className="font-bold">sujets d'examens et ressources pédagogiques</span>,
+         spécialement conçue pour <span className="font-bold">vous accompagner vers la réussite</span>.
+        <br />
+        <span className="font-bold">Trouvez l'ouvrage idéal en un clic</span>, maîtrisez chaque sujet grâce à des annales corrigées et des outils interactifs, et multipliez vos chances de succès, quelle que soit votre session.
+        <br />
+        <br />
+        L'excellence à portée de main – parce que chaque effort mérite d'être récompensé ! 🚀 
       </p>
 
       <div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-4 md:gap-6 mt-10 lg:mt-8 w-full sm:max-w-[80%] lg:max-w-[100%] mx-auto">
