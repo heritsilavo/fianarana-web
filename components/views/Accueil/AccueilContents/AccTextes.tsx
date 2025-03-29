@@ -125,7 +125,7 @@ export default function HeroSection() {
       </h2>
 
       <p className="hero-slogan hero-animated opacity-0 text-lg md:text-xl lg:text-xl 2xl:text-3xl mt-6 md:mt-8 lg:mt-7 xl:mt-8 2xl:mt-9 text-center lg:text-left">
-        Construisons votre avenir numérique ligne par ligne
+        
       </p>
 
       <p className="hero-description hero-animated opacity-0 text-sm md:text-lg lg:text-sm 2xl:text-xl mt-6 md:mt-8 lg:mt-6 xl:mt-8 2xl:mt-9 max-w-[100%] sm:max-w-[80%] lg:max-w-[90%] xl:max-w-[80%] 2xl:max-w-[70%] text-center lg:text-left mx-auto lg:mx-0">

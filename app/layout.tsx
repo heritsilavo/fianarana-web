@@ -3,8 +3,8 @@ import "./globals.css";
 import '@/public/fonts/inter.css'
 
 export const metadata: Metadata = {
-  title: "Heritsilavo",
-  description: "Protfolio de heritsilavo (tsilavo)",
+  title: "Fianarana",
+  description: "Application qui propose des livres",
 };
 
 export default function RootLayout({
