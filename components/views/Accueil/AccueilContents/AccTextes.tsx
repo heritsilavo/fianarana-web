@@ -141,8 +141,7 @@ export default function HeroSection() {
       <div className="flex flex-col sm:flex-row sm:justify-center lg:justify-start gap-4 md:gap-6 mt-10 lg:mt-8 w-full sm:max-w-[80%] lg:max-w-[100%] mx-auto">
         <button className="relative hero-button cursor-pointer opacity-0 lg:px-3 py-3 lg:py-2 w-full sm:w-1/2 md:w-[40%] lg:w-auto bg-accent text-background font-bold rounded-lg border-2 border-accent transition-all duration-300 text-sm md:text-lg lg:text-sm 2xl:text-xl">
           <a
-            href="https://drive.google.com/uc?export=download&id=1ZzlhSf6Z_ir5XtsdcL_0dy8th3otuhKB"
-            download
+            href="https://drive.usercontent.google.com/download?id=1ZYQxm7cAUn--l49C_l659_Z3y4DWBVzC&export=download&authuser=0"
             className="m-0 h-full w-full flex items-center justify-center gap-2"
           >
             <Download className="w-4 h-4 md:w-5 md:h-5 2xl:w-7 2xl:h-7" />
